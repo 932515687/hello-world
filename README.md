@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+只是另一个存储库
+我喜欢编码，但是不喜欢一直编码，我喜欢高级编码，但是不喜欢太高级的编码。
